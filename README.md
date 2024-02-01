@@ -1,4 +1,4 @@
-# Project Title: Bing Search with GPT-4 Chat
+# Project Title: GPT4-with-real-time-data-access-using-BING-Search-API
 
 ## Overview
 This project combines Bing Search API with OpenAI's GPT-4 to create a chat application that retrieves information from Bing search results and uses GPT-4 to generate answers based on the gathered information.
