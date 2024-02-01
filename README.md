@@ -7,7 +7,7 @@ This project combines Bing Search API with OpenAI's GPT-4 to create a chat appli
 Before running the code, make sure you have the following:
 
 - OpenAI API key: Obtain from OpenAI (https://beta.openai.com/signup/).
-- Bing Search API key: Obtain from Microsoft Azure (https://azure.microsoft.com/en-us/services/cognitive-services/bing-search-api/).
+- Bing Search API key: Obtain from Microsoft Azure (https://www.microsoft.com/en-us/bing/apis/bing-web-search-api).
 - Environment Variables: Set up a `.env` file with the following variables:
 
 ```dotenv
